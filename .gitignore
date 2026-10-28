@@ -3,6 +3,9 @@
 venv/
 env/
 
+# Testing media files
+Testing Media/
+
 # Python cache
 __pycache__/
 *.py[cod]

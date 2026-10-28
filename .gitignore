@@ -3,8 +3,10 @@
 venv/
 env/
 
-# Testing media files
+#Media files
 Testing Media/
+FruitVision_AI_Prerequisites_and_Viva_Notes.pdf/
+FruitVision_AI_Presentation.pptx/
 
 # Python cache
 __pycache__/
